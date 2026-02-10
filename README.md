@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <h2>🔍 检索增强生成 (RAG) 技术全栈指south</h2>
+  <h2>🔍 检索增强生成 (RAG) 技术全栈指sout</h2>
   <p><em>从理论到实践，从基础到进阶，构建你的RAG技术体系</em></p>
 </div>
 
